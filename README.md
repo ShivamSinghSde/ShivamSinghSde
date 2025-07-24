@@ -53,7 +53,7 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 
 ## Ongoing Work
 
-### 📚 [Online Book Store](onlinebookstore.com)
+### 📚 [Online Book Store](https://github.com/ShivamSinghSde/Online-Book-Store.git)
 <p align="justify">
 Online Book Store is a full-stack web application that allows users to register via Google, browse, upload, and download books. It features role-based access with separate dashboards for users and a super admin who verifies books, manages content, and maintains quality. Built with Spring Boot (backend) and React (frontend), it uses JWT authentication and stores data in a MySQL database. The platform ensures secure, user-contributed digital book sharing.
 </p>
