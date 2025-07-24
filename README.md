@@ -12,7 +12,8 @@
 
 <p align="justify">
 I'm <b>Shivam Singh</b>, a passionate Software Engineer and recent Information Technology graduate with a strong foundation in software development and proven technical proficiency. I have demonstrated strong problem-solving and analytical skills through real-world academic projects, where I successfully applied my knowledge of Java, MySQL, Spring Boot, and web development to create impactful    solutions.
-
+</p>
+<p align="justify">
 I strongly believe in writing clean, maintainable code, building scalable applications and committed to continuous learning, I am currently seeking an opportunity in a forward-thinking organization where I can apply my skills, contribute to innovative projects, and grow as a developer.
 </p>
 
@@ -47,6 +48,17 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 ![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### [🏥 Hospital Management System](https://github.com/ShivamSinghSde/Hospital-Management-System.git)
+
+<p align="justify" margin="10px">
+  Hospital Management System is a Java-based console application that manages patients, doctors, and appointments using a MySQL database for data storage. It consists of four main classes—Patient, Doctor, Appointment, and HospitalManagementSystem (the driver class). Key functionalities include patient registration, viewing doctor/patient details, booking and viewing appointments. The system offers a simple interface to streamline hospital operations efficiently.
+</p>
+
 
 ---
 
