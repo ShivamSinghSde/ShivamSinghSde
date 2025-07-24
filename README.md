@@ -38,7 +38,7 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 
 ### ⚙️ Backend Development
 <!--![Spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)-->
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Springboot](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,6 +55,7 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 
 ### 📚 [Online Book Store](onlinebookstore.com)
 Online Book Store is a full-stack web application that allows users to register via Google, browse, upload, and download books. It features role-based access with separate dashboards for users and a super admin who verifies books, manages content, and maintains quality. Built with Spring Boot (backend) and React (frontend), it uses JWT authentication and stores data in a MySQL database. The platform ensures secure, user-contributed digital book sharing.
+**Tech Stack:** React, JWT Auth, Tailwind CSS, Java, Springboot, MySQL
 
 ---
 
@@ -64,6 +65,7 @@ Online Book Store is a full-stack web application that allows users to register 
 
 <p align="justify" margin="10px">
   Hospital Management System is a Java-based console application that manages patients, doctors, and appointments using a MySQL database for data storage. It consists of four main classes—Patient, Doctor, Appointment, and HospitalManagementSystem (the driver class). Key functionalities include patient registration, viewing doctor/patient details, booking and viewing appointments. The system offers a simple interface to streamline hospital operations efficiently.
+  **Tech Stack:** Java, SQL
 </p>
 
 
