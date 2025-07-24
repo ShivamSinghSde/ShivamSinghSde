@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 <p align="justify">
-I'm <b>Shivam Singh</b>, a passionate Software Engineer and recent Information Technology graduate with a strong foundation in software development and proven technical proficiency. I have demonstrated strong problem-solving and analytical skills through real-world academic projects, where I successfully applied my knowledge of Java, MySQL, Spring Boot, and web development to create impactful    solutions.
+I'm <b>Shivam Singh</b>, a passionate Software Engineer and recent Information Technology graduate with a strong foundation in software development and proven technical proficiency. I have demonstrated strong problem-solving and analytical skills through real-world academic projects, where I successfully applied my knowledge of Java, MySQL, Spring Boot, and web development to create impactful solutions.
 </p>
 <p align="justify">
 I strongly believe in writing clean, maintainable code, building scalable applications and committed to continuous learning, I am currently seeking an opportunity in a forward-thinking organization where I can apply my skills, contribute to innovative projects, and grow as a developer.
@@ -54,8 +54,11 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 ## Ongoing Work
 
 ### 📚 [Online Book Store](onlinebookstore.com)
+<p align="justify">
 Online Book Store is a full-stack web application that allows users to register via Google, browse, upload, and download books. It features role-based access with separate dashboards for users and a super admin who verifies books, manages content, and maintains quality. Built with Spring Boot (backend) and React (frontend), it uses JWT authentication and stores data in a MySQL database. The platform ensures secure, user-contributed digital book sharing.
-**Tech Stack:** React, JWT Auth, Tailwind CSS, Java, Springboot, MySQL
+</p>
+
+**Tech Stack:**  React, JWT Auth, Tailwind CSS, Java, Springboot, MySQL
 
 ---
 
@@ -63,9 +66,10 @@ Online Book Store is a full-stack web application that allows users to register 
 
 ### [🏥 Hospital Management System](https://github.com/ShivamSinghSde/Hospital-Management-System.git)
 
-<p align="justify" margin="10px">
-  Hospital Management System is a Java-based console application that manages patients, doctors, and appointments using a MySQL database for data storage. It consists of four main classes—Patient, Doctor, Appointment, and HospitalManagementSystem (the driver class). Key functionalities include patient registration, viewing doctor/patient details, booking and viewing appointments. The system offers a simple interface to streamline hospital operations efficiently.
-  **Tech Stack:** Java, SQL
+<p align="justify">
+Hospital Management System is a Java-based console application that manages patients, doctors, and appointments using a MySQL database for data storage. It consists of four main classes—Patient, Doctor, Appointment, and HospitalManagementSystem (the driver class). Key functionalities include patient registration, viewing doctor/patient details, booking and viewing appointments. The system offers a simple interface to streamline hospital operations efficiently.
+
+**Tech Stack:**  Java, SQL
 </p>
 
 
