@@ -18,7 +18,7 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 
 ---
 
-## 💻 Programming Languages: 
+## 💻 Programming Languages 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,7 +29,7 @@ I strongly believe in writing clean, maintainable code, building scalable applic
 
 ---
 
-## 🚀 Tech Stack & Expertise
+## 🚀 Tech Stack
 
 ### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
